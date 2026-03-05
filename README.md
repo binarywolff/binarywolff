@@ -1,16 +1,17 @@
 ## Hi everyone 👋👨‍💻
 
 ---
-I'm Dario Lupo and I'm currently studying the master in **Computer Engineering** at **Politecnico di Torino**. 
-During my bachelor I studied Automation Engineering at Univeristà di Bologna.
-My interests are mainly in Machine Learning and Robotics.
+I'm Dario Lupo, currently pursuing a Master’s degree in **Computer Engineering** at **Politecnico di Torino.** I completed my Bachelor’s degree in Automation Engineering at the University of Bologna. My main interests are Machine Learning and Robotics.
 
-🎓 Education:
-- Master of Science in Computer Engineering @ Politecnico di Torino
-- Bachelor of Science in Automation Engineering @ Università di Bologna
+🎓 **Education**
 
-🔭 I’m currently working in the student team **RoboTO** for two different competitions: ARC Robotics and FRE
+Master of Science in Computer Engineering — Politecnico di Torino
 
+Bachelor of Science in Automation Engineering — University of Bologna
+
+🔭 Current Activities
+
+I am currently working with the RoboTO student team, contributing to two robotics competitions: ARC Robotics and FRE.
 ---
 🔬 **Research Interests & Focus Areas**
 - 👨‍💻Machine Learning 
