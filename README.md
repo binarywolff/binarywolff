@@ -9,9 +9,10 @@ Master of Science in Computer Engineering — Politecnico di Torino
 
 Bachelor of Science in Automation Engineering — University of Bologna
 
-🔭 Current Activities
+🔭 **Current Activities**
 
 I am currently working with the RoboTO student team, contributing to two robotics competitions: ARC Robotics and FRE.
+
 ---
 🔬 **Research Interests & Focus Areas**
 - 👨‍💻Machine Learning 
